@@ -27,6 +27,7 @@ const user:User<string,number> = {
   name:'tiger',
   age:30
 }
+
 const user2:User<number,number> = {
   name:123123123,
   age:30
